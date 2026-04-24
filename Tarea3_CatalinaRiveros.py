@@ -105,12 +105,7 @@ def lineas_espirales(ruta_imagen_filtrada):
 
 def decoracion(ruta_lineas_espirales):
     #a partir de las espirales generadas en el punto anterior, aplica un algortimo para ornamentar
-    #guarda los 5 diseños generados en una carpeta y retorna su ruta (directorio)
-    return rutas_disenos
-
-
-def seleccion_diseno(rutas_disenos):
-    #toma las imagenes generadas en el punto anterior y las muestra en una ventana interactiva para que la usaria escoja su preferida
+    #muestra los 5 diseños generados en una pantalla ininteractiva para que la usaria escoja su preferida
     #si no le gusta ninguna, se vuelve a ejecutar la función anterior
     #si la persona escoje un diseño, este se guarda automáticamente en pdf para que se pueda imprimir.
     return pdf
