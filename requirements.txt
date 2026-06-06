@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+opencv-python
+scikit-image
+pillow
+torch
+torchvision
+kornia
+h5py
+tkinterdnd2
