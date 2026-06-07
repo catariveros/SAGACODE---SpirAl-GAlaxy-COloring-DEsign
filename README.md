@@ -11,6 +11,7 @@ Clone this repository:
 git clone <https://github.com/catariveros/INF471---Proyecto-Catalina-Riveros.git>
 cd SAGACODE
 ```
+or download the files independently.
 
 Install all required dependencies:
 ```bash
