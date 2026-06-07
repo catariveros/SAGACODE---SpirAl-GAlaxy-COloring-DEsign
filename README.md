@@ -35,7 +35,7 @@ This repository includes the following files:
   ```text
   DexiNed/checkpoints/BIPED/10/
   ```
-  The download link can be found in: https://usmcl-my.sharepoint.com/:u:/g/personal/catalina_riverosj_usm_cl/IQD4V0B8xZSXQpMErtXUlzgFAQFfINvjONM00s8-aeQzRMM?e=oCjwFj. Once the checkpoint has been downloaded and placed in the correct location, SAGACODE should run without further problem.
+  The file can be found in this link: https://usmcl-my.sharepoint.com/:u:/g/personal/catalina_riverosj_usm_cl/IQD4V0B8xZSXQpMErtXUlzgFAQFfINvjONM00s8-aeQzRMM?e=oCjwFj. Once the checkpoint has been downloaded and placed in the correct location, SAGACODE should run without further problem.
 
 * **`requirements.txt`**
   Contains all Python dependencies required to run SAGACODE and DexiNed.
