@@ -21,10 +21,10 @@ pip install -r requirements.txt
 ## Repository Contents
 This repository includes the following files:
 
-* **`Entrega2_CatalinaRiveros.ipynb`**
+* **`Entrega3_CatalinaRiveros.ipynb`**
   Jupyter Notebook containing the complete implementation of the SAGACODE algorithm. The notebook is fully organized, documented and describes each step with all important remarks.
 
-* **`Entrega2_CatalinaRiveros.py`**
+* **`Entrega3_CatalinaRiveros.py`**
   Python script version of the notebook.
 
 * **DexiNed**
@@ -39,6 +39,9 @@ This repository includes the following files:
 
 * **`requirements.txt`**
   Contains all Python dependencies required to run SAGACODE and DexiNed.
+  
+* **`Example outputs`**
+  These outputs where obtain using the image 'galaxy1.png' found in Example_data, and the following editing parameters: brightness =+0.04, saturation = 2.13, contrast = 1.58, unsharp radius = 5.0, and unsharp amount = 4.05.
 
 ## Dataset
 SAGACODE can be applied to any spiral galaxy image.
@@ -67,6 +70,7 @@ SAGACODE/
 ├── Entrega2_CatalinaRiveros.py        # Python implementation
 ├── requirements.txt                   # Required Python packages
 ├── Example_data/                      # Example galaxy images
+├── Example_output/                    # Example SAGACODE outputs
 │
 ├── DexiNed/                           # DexiNed edge-detection framework
 │   ├── checkpoints/
