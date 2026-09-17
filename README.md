@@ -21,10 +21,10 @@ pip install -r requirements.txt
 ## Repository Contents
 This repository includes the following files:
 
-* **`Entrega3_CatalinaRiveros.ipynb`**
+* **`SAGACODE.ipynb`**
   Jupyter Notebook containing the complete implementation of the SAGACODE algorithm. The notebook is fully organized, documented and describes each step with all important remarks.
 
-* **`Entrega3_CatalinaRiveros.py`**
+* **`SAGACODE.py`**
   Python script version of the notebook.
 
 * **DexiNed**
@@ -57,17 +57,17 @@ For best results, use high-resolution images in which the spiral arms and the ce
 ## Running SAGACODE
 After installing the required dependencies and downloading the DexiNed checkpoint, open either:
 
-* `Entrega2_CatalinaRiveros.ipynb`
+* `SAGACODE.ipynb`
 or
-* `Entrega2_CatalinaRiveros.py`
+* `SAGACODE.py`
 
 and follow the instructions provided in the code.
 
 ## Project Architecture
 ```text
 SAGACODE/
-├── Entrega2_CatalinaRiveros.ipynb     # Main Jupyter Notebook
-├── Entrega2_CatalinaRiveros.py        # Python implementation
+├── SAGACODE.ipynb     # Main Jupyter Notebook
+├── SAGACODE.py        # Python implementation
 ├── requirements.txt                   # Required Python packages
 ├── Example_data/                      # Example galaxy images
 ├── Example_output/                    # Example SAGACODE outputs
